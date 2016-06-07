@@ -10,7 +10,7 @@ def tournoi(bids, messages, peer_list):
     soma = 0
     for bid in bids:
         soma += int(bid.body)
-        print ("Joueur", bid.sender.username, "a choisi le chiffre ", bid.body )
+        print ("Joueur dfa", bid.sender.username, "a choisi le chiffre ", bid.body )
     gagnant = soma % n
     print ("Somme totale = ", gagnant)
     i = 0
