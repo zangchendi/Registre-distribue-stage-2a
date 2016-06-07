@@ -2,4 +2,4 @@
 stage 2A de Chendi ZANG sur registre distribué pour monnaie virtuelle
 
 
-nothing
+nothing has been changed
